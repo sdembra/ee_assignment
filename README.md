@@ -1,5 +1,6 @@
 # ee_assignment
 #Implementation details:
+
 This repository contains terraform modules to create vpc,public_subnets,private_subnets,security_groups,route_table,route_table_associations.
 Above modules have been invoked in network.tf
 ssh_key.tf and jenkins.tf are for creating ssh key and jenkins instance respectively.
